@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+
+<head>
+  <meta charset="utf-8">
+  <title>Beau’s Bonbons</title>
+  <link href="https://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link href="css/main.css" rel="stylesheet">
+</head>
+
+<body>
+  <header class="masthead">
+    <h1><img src="placeholder-3by2.svg"></h1>
+    <nav class="nav">
+      <ol>
+        <li><a href="#location">Location</a></li>
+        <li><a href="#menu">Menu</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ol>
+    </nav>
+  </header>
+
+  <main>
+
+    <h2 id="Daily Special">Daily Special </h2>
+    <figure>
+      <figcaption>
+        lots of different plants from the Cretaceous period
+      </figcaption>
+      <h2><img src="placeholder-circle.svg"></h2>
+      <ol>
+        <li><a href="#Grass Broth">grass broth</a></li>
+      </ol>
+      <figcaption class="intro">
+        Some of the best broth ever made, using Jurrasic-era tall grasses.
+      </figcaption>
+    </figure>
+
+    <h2 id="Insect Stew">Insect Stew </h2>
+    <figure>
+      <h2><img src="placeholder-circle.svg"></h2>
+      <ol>
+        <li><a href="#Grass Broth">grass broth</a></li>
+      </ol>
+        <figcaption>
+          A long stew mash of delicious insectoids from around the Triassic period.
+        </figcaption>
+    </figure>
+
+    <h2 id="Veloci Steak">Veloci Steak </h2>
+    <figure>
+      <h2><img src="placeholder-circle.svg"></h2>
+      <ol>
+        <li><a href="#Veloci Steak">Veloci Steak</a></li>
+      </ol>
+      <figcaption>
+        Super raw, lightly grilled velociraptor steak-just like a T.rex would eat.
+      </figcaption>
+    </figure>
+  </main>
+</body>
+</html>
